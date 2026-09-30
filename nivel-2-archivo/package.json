@@ -1,0 +1,12 @@
+{
+  "name": "nivel-2-archivo",
+  "version": "1.0.0",
+  "description": "Nivel 2: Validación con Web App y guardado en archivos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

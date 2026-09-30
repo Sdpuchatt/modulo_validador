@@ -1,0 +1,14 @@
+{
+  "name": "nivel-7-yup",
+  "version": "1.0.0",
+  "description": "Nivel 7: Validación universal en la industria usando Yup",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "yup": "^1.4.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nivel-6-completo",
+  "version": "1.0.0",
+  "description": "Nivel 6: Esquemas avanzados, coerción de tipos y desinfección XSS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

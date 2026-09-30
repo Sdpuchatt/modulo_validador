@@ -1,0 +1,10 @@
+{
+  "name": "nivel-1-consola",
+  "version": "1.0.0",
+  "description": "Nivel 1: Registro interactivo por consola sin dependencias externas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
